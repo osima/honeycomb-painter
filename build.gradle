@@ -1,0 +1,9 @@
+//defaultTasks 'build'
+//defaultTasks 'build','javadoc','groovydoc'
+defaultTasks 'build', 'javadoc'
+
+
+apply plugin: 'java'
+//apply plugin: 'groovy'
+archivesBaseName = "honeycomb-painter"
+
