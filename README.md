@@ -3,9 +3,7 @@
 
 This is a honeycomb diagram painting library.
 
-<a href="http://www.flickr.com/photos/30619144@N07/5200932620/" title="honeycombAsOne by osimajp, on Flickr"><img src="http://farm6.static.flickr.com/5250/5200932620_b1d03cc196_m.jpg" width="240" height="240" alt="honeycombAsOne" /></a>
-
-<a href="http://www.flickr.com/photos/30619144@N07/5200932624/" title="honeycombAsTwo by osimajp, on Flickr"><img src="http://farm6.static.flickr.com/5044/5200932624_bd1e3c01b7_m.jpg" width="240" height="240" alt="honeycombAsTwo" /></a>
+<a href="http://www.flickr.com/photos/30619144@N07/5200932620/" title="honeycombAsOne by osimajp, on Flickr"><img src="http://farm6.static.flickr.com/5250/5200932620_b1d03cc196_m.jpg" width="240" height="240" alt="honeycombAsOne" /></a><a href="http://www.flickr.com/photos/30619144@N07/5200932624/" title="honeycombAsTwo by osimajp, on Flickr"><img src="http://farm6.static.flickr.com/5044/5200932624_bd1e3c01b7_m.jpg" width="240" height="240" alt="honeycombAsTwo" /></a>
 
 
 ## build and run test code 
